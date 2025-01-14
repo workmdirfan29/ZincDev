@@ -1,4 +1,5 @@
 # ZincDev
+![Bannner](https://github.com/workmdirfan29/ZincDev/blob/main/zinc-dev-homepage%20.png)
 
 - **ZincDev** is a multinational company that provides free components and free templates to developers worldwide, making it easier to build efficient and scalable web applications.
 
